@@ -8,6 +8,7 @@ I'm Gift from South Africa, a Software Engineer specializing in back-end. I alwa
 Skills: Python / SQL 
 
 - 🌱 I’m currently learning SQL Administration Management
+- 🔭 I’m currently working on Hospital Management System
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mgmtsweni) 
 
