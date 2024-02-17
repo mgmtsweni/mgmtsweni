@@ -1,4 +1,4 @@
-![Software Engineer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer and Designer](https://github.com/mgmtsweni/mgmtsweni/blob/main/GitHub%20banner.png)
 
 # Mahlatse Gift Mtsweni
 #### Software Engineer and Designer
