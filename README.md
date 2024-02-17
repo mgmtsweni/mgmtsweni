@@ -1,4 +1,4 @@
-![Software Engineer and Designer](https://github.com/mgmtsweni/mgmtsweni/blob/main/GitHub%20banner.png)
+![Software Engineer and Designer](https://github.com/mgmtsweni/mgmtsweni/blob/main/banner.png)
 
 # Mahlatse Gift Mtsweni
 #### Software Engineer and Designer
