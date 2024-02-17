@@ -1,4 +1,17 @@
-### Hi there This File is under construction
+### Hi there 👋, Mahlatse Gift Mtsweni
+#### Software Engineer and Designer
+![Software Engineer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm Gift from South Africa, a Software Engineer specializing in back-end. I always do the hard things to achieve my goals. 
+
+Skills: Python / SQL 
+
+- 🌱 I’m currently learning SQL Administration Management
+
+
+
+
+
 
 <!--
 **mgmtsweni/mgmtsweni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
