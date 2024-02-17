@@ -1,6 +1,7 @@
-### Hi there 👋, Mahlatse Gift Mtsweni
-#### Software Engineer and Designer
 ![Software Engineer and Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+# Mahlatse Gift Mtsweni
+#### Software Engineer and Designer
 
 I'm Gift from South Africa, a Software Engineer specializing in back-end. I always do the hard things to achieve my goals. 
 
