@@ -5,10 +5,7 @@
 
 I'm Gift from South Africa, a Software Engineer specializing in back-end. I always do the hard things to achieve my goals. 
 
-Skills: Python / SQL 
-
-- 🌱 I’m currently learning SQL Administration Management
-- 🔭 I’m currently working on College Management System
+- 🔭 I’m currently working on building my portfolio and elevating my skills.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mgmtsweni) 
 
